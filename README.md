@@ -4,8 +4,9 @@ Cola has been built on top of [Seminator](https://github.com/mklokocka/seminator
 
 
 ### List of algorithms
-Complementing UNBA: the [slice-based algorithm](https://arxiv.org/abs/2005.09125v2)
-Determinizing LDBA: in submission
+* Complementing UNBA: the [slice-based algorithm](https://arxiv.org/abs/2005.09125v2)
+
+* Determinizing LDBA: in submission
 
 ### Requirements
 * [Spot](https://spot.lrde.epita.fr/)
